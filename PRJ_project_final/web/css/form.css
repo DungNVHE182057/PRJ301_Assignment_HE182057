@@ -1,0 +1,51 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 22, 2024, 12:41:02 AM
+    Author     : admin
+*/
+
+.form-outline {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.form-control {
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  border-radius: 0;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-control:focus~.form-label {
+  color: #007bff;
+  transform: translateY(-1.25rem) scale(0.85);
+}
+
+.form-control:not(:placeholder-shown)~.form-label {
+  color: #007bff;
+  transform: translateY(-1.25rem) scale(0.85);
+}
+
+.form-label {
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  transition: 0.2s ease-out;
+  color: #495057;
+  cursor: text;
+}
+
+.form-control:focus~.form-label,
+.form-control:not(:placeholder-shown)~.form-label {
+  color: #007bff;
+  transform: translateY(-1.25rem) scale(0.85);
+}
+.hidden{
+    display: none;
+}
