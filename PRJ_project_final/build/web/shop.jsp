@@ -108,7 +108,7 @@
                     <c:forEach items="${requestScope.myProducts}" var="p">
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="card my-2">
-                              <a href="detail?id=${p.id}" class="" style="width: 100%; padding-bottom: 100%; position: relative">
+                              <a href="" class="" style="width: 100%; padding-bottom: 100%; position: relative">
                                 <img src="${p.imageLink}" class="card-img-top rounded-2 " style="width: 100%; height: 100%; position: absolute"/>
                               </a>
                               <div class="card-body p-0 pt-2">
