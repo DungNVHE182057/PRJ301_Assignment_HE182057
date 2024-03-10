@@ -38,6 +38,10 @@ The website has 3 role: User, Shop and Admin
 ### Shop page
 ![image](https://github.com/DungNVHE182057/PRJ301_Assignment_HE182057/assets/124068868/59de609f-db86-446b-b355-75931d8fe08a)
 ## Add or Update a product 
+![image](https://github.com/DungNVHE182057/PRJ301_Assignment_HE182057/assets/124068868/e1d96061-b7e1-43d1-8330-afce9b0ded3b)
+![image](https://github.com/DungNVHE182057/PRJ301_Assignment_HE182057/assets/124068868/30f21907-1a33-4677-bc8b-049e290d0b4f)
+## Admin page
+![image](https://github.com/DungNVHE182057/PRJ301_Assignment_HE182057/assets/124068868/641a45c5-246c-4060-bf77-8362d2c51178)
 
 
 
