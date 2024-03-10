@@ -34,8 +34,8 @@
                 <div class="row gy-3 d-flex justify-content-between">
                   <!-- Left elements -->
                   <div class="col-lg-2 col-sm-4 col-4">
-                    <a href="https://mdbootstrap.com/" target="_blank" class="float-start">
-                      <img src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png" height="35" />
+                    <a href="" target="_blank" class="float-start">
+                      <img src="image/base-battery-logo.png" height="35" />
                     </a>
                   </div>
                   <!-- Left elements -->
