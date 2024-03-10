@@ -1,12 +1,12 @@
 # Men's Items Ecommerce Website
 
-## Description
+# Description
 This project simulates an ecommerce website for men with basic features such as buying, selling products and mananging the system(by the admin)...
 ##This project is created using
  - Java Servlet
  - JSP
  - Database: SQL Server
-## Feature
+# Feature
 The website has 3 role: User, Shop and Admin
 ### General features
  - Create acount as user or shop
@@ -24,4 +24,4 @@ The website has 3 role: User, Shop and Admin
 ### Admin feature
  - Read all statistics of the website
  - View leaderboard of users and products
-## Screenshot
+# Screenshot
