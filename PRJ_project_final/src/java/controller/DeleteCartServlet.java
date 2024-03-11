@@ -66,7 +66,10 @@ public class DeleteCartServlet extends HttpServlet {
         }
         if(txt.endsWith("/"+id)){
             txt = txt.substring(0, txt.length()-2);
-        }else if(txt.equals(Integer.toString(id))){
+        }else if(txt.startsWith(id+"/")){
+            txt = txt.substring(3);
+        }
+        else if(txt.equals(Integer.toString(id))){
             txt="";
         }
         else{
