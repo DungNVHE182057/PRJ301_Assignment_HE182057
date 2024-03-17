@@ -2,10 +2,13 @@
 
 # Description
 This project simulates an ecommerce website for men with basic features such as buying, selling products and mananging the system(by the admin)...
-##This project is created using
+## This project is created using
  - Java Servlet
+ - Bootstrap 5
+ - Javascript
  - JSP
  - Database: SQL Server
+ - Additional Techniques: Cookie, Session, Filter 
 # Feature
 The website has 3 role: User, Shop and Admin
 ### General features
